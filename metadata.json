@@ -1,0 +1,5 @@
+{
+  "name": "Gestionale Ufficio",
+  "description": "Un'applicazione per la gestione dei lavori, clienti e scadenze dell'ufficio.",
+  "requestFramePermissions": []
+}
